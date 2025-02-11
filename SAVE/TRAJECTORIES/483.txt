@@ -1,0 +1,11 @@
+#483
+#edem v zero iz svarki
+
+
+cmdStatus:1483
+svarka_podezd3:2
+svarka_podezd2:4
+svarka_podezd:6
+cmdStatus:483
+cmdStop
+

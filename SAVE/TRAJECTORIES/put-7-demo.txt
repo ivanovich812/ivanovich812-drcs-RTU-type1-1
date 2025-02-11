@@ -1,0 +1,17 @@
+#################################
+#DEF:put-7-demo
+# Transporting of TVEL
+# INTER POSITION ---> TVS -7 POS (DEMONSTRATION)
+#################################
+
+
+
+#####################
+7-put-under:5
+cmdWait:2
+
+#####################
+inter-c:3
+inter-b:3
+inter-a:7
+prep-mag:10

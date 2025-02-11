@@ -1,0 +1,11 @@
+#################################
+#DEF:101
+# Transporting of TVEL
+#MAGAZIN-1 POS ---> INTER POSITION
+#################################
+
+cmdStatus:1101
+DEF:take-1
+cmdStatus:101
+
+cmdStop

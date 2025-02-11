@@ -1,0 +1,6 @@
+#####################
+#DEF:zero-start
+#ZERO ---> START POSITION
+#####################
+
+prep-mag:10

@@ -1,0 +1,14 @@
+#477 7
+#Demo
+
+cmdStatus:1007
+demo_lt:7
+zero:7
+demo_svarka_podezd:7
+demo_svarka:7
+demo_vaso_podezd:7
+demo_vaso_podezd_2:7
+demo_vaso:8
+demo_vaso_podezd_2:7
+demo_zero_podezd:8
+zero:6

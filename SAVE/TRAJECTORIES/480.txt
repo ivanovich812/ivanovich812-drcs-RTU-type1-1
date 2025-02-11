@@ -1,0 +1,10 @@
+#podvodim k svarke iz zero
+
+
+cmdStatus:1480
+svarka_podezd:6
+svarka_podezd2:6
+svarka_podezd3:3
+svarka_hvatv3:1
+cmdStatus:480
+cmdStop

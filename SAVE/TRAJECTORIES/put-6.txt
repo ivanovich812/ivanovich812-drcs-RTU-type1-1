@@ -1,0 +1,31 @@
+#################################
+#DEF:put-6
+# Transporting of TVEL
+# INTER POSITION ---> TVS -6 POS
+#################################
+
+
+
+#####################
+6-put-under:5
+cmdWait:2
+cmdSetDO:out_tool_1_open:1
+6-put-between:3
+6-put-centre:3
+6-put-10mm:3
+cmdWait:2
+6-put-20mm:3
+6-put-25mm:3
+6-put-60mm:5
+cmdWait:2
+cmdSetDO:out_tool_2_open:1
+cmdWait:3
+6-out:5
+
+#####################
+inter-c:3
+cmdSetDO:out_tool_2_open:0
+cmdSetDO:out_tool_1_open:0
+inter-b:3
+inter-a:7
+prep-mag:10

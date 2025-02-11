@@ -1,0 +1,11 @@
+#################################
+#DEF:107
+# Transporting of TVEL
+#MAGAZIN-7 POS ---> INTER POSITION
+#################################
+
+cmdStatus:1107
+DEF:take-7
+cmdStatus:107
+
+cmdStop

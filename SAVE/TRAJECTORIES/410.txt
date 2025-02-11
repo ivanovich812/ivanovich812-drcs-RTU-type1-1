@@ -1,0 +1,7 @@
+#410
+#go to zero
+
+cmdStatus:1410
+zero:6
+cmdStatus:410
+cmdStop

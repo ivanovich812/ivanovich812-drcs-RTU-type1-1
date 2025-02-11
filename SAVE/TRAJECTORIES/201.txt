@@ -1,0 +1,12 @@
+
+#################################
+#DEF:201
+# Transporting of TVEL
+# INTER POSITION ---> TVS -1 POS
+#################################
+
+cmdStatus:1201
+DEF:put-1
+cmdStatus:201
+
+cmdStop

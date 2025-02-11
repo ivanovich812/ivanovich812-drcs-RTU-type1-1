@@ -1,0 +1,9 @@
+#####################
+#DEF:zero-start
+#ZERO 
+#####################
+
+cmdStatus:1110
+zero:10
+cmdStatus:110
+cmdStop

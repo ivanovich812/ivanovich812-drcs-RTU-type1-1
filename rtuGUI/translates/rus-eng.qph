@@ -1,0 +1,743 @@
+<!DOCTYPE QPH>
+<QPH sourcelanguage="en_GB" language="ru_RU">
+<phrase>
+    <source>MainWindow</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Menu</source>
+    <target>Меню</target>
+</phrase>
+<phrase>
+    <source>- </source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Calibration</source>
+    <target>Калибровка</target>
+</phrase>
+<phrase>
+    <source>Jog</source>
+    <target>Ручной режим</target>
+</phrase>
+<phrase>
+    <source>Data</source>
+    <target>Данные</target>
+</phrase>
+<phrase>
+    <source>Trajectory</source>
+    <target>Траектория</target>
+</phrase>
+<phrase>
+    <source>Signals</source>
+    <target>Сигналы</target>
+</phrase>
+<phrase>
+    <source>Settings</source>
+    <target>Настройки</target>
+</phrase>
+<phrase>
+    <source>Event log</source>
+    <target>Журнал</target>
+</phrase>
+<phrase>
+    <source>Scope</source>
+    <target>Осциллограф</target>
+</phrase>
+<phrase>
+    <source>DRCS PENDANT</source>
+    <target>ПУЛЬТ УПРАВЛЕНИЯ</target>
+</phrase>
+<phrase>
+    <source>ENG</source>
+    <target>АНГ</target>
+</phrase>
+<phrase>
+    <source>RUS</source>
+    <target>РУС</target>
+</phrase>
+<phrase>
+    <source>5</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>7</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>4</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>1</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>8</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>6</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>3</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Authorization</source>
+    <target>Авторизация</target>
+</phrase>
+<phrase>
+    <source>2</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>calibrate_axis</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Calibrate</source>
+    <target>Калибровать</target>
+</phrase>
+<phrase>
+    <source>not styled</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>N/A</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Axes 2</source>
+    <target>Ось 2</target>
+</phrase>
+<phrase>
+    <source>Axes 1</source>
+    <target>Ось 1</target>
+</phrase>
+<phrase>
+    <source>Axes 4</source>
+    <target>Ось 4</target>
+</phrase>
+<phrase>
+    <source>Axes 6</source>
+    <target>Ось 6</target>
+</phrase>
+<phrase>
+    <source>Axes 5</source>
+    <target>Ось 5</target>
+</phrase>
+<phrase>
+    <source>Axes 5</source>
+    <target>Ось 5</target>
+</phrase>
+<phrase>
+    <source>Axes 3</source>
+    <target>Ось 3</target>
+</phrase>
+<phrase>
+    <source>Calibrate axes</source>
+    <target>Калибровка осей</target>
+</phrase>
+<phrase>
+    <source>define_axis</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Define</source>
+    <target>Определить</target>
+</phrase>
+<phrase>
+    <source>Define position</source>
+    <target>Определить позицию</target>
+</phrase>
+<phrase>
+    <source>Define position</source>
+    <target>Определить позицию</target>
+</phrase>
+<phrase>
+    <source>Mode:</source>
+    <target>Режим:</target>
+</phrase>
+<phrase>
+    <source>Mode:</source>
+    <target>Режим:</target>
+</phrase>
+<phrase>
+    <source>speed_mode|stop</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>+</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>-</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>X</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Y</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Z</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Working frame:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>BASE</source>
+    <target>ОСНОВАНИЕ</target>
+</phrase>
+<phrase>
+    <source>TOOL</source>
+    <target>ИНСТРУМЕНТ</target>
+</phrase>
+<phrase>
+    <source>low_discrete</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>50</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>medium_discrete</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>10</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>high_discrete</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>linear_jog|stop</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>all:position_mode</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>all:stop</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>GO TO</source>
+    <target>В ПОЗИЦИЮ</target>
+</phrase>
+<phrase>
+    <source>Axis 2:</source>
+    <target>Ось 2:</target>
+</phrase>
+<phrase>
+    <source>axis_1_actual_position</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>tcp_eu_y</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>tcp_z</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>%p%</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>axis_4_actual_position</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Euler Y: </source>
+    <target>Угол Эйлера Y: </target>
+</phrase>
+<phrase>
+    <source>Axis 6:</source>
+    <target>Ось 6:</target>
+</phrase>
+<phrase>
+    <source>X: </source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>axis_2_actual_position</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Axis 4:</source>
+    <target>Ось 4:</target>
+</phrase>
+<phrase>
+    <source>Axis 1:</source>
+    <target>Ось 1:</target>
+</phrase>
+<phrase>
+    <source>Axis 3:</source>
+    <target>Ось 3:</target>
+</phrase>
+<phrase>
+    <source>Axis 5:</source>
+    <target>Ось 5:</target>
+</phrase>
+<phrase>
+    <source>Cartesian coordinates:</source>
+    <target>Декартовы координаты:</target>
+</phrase>
+<phrase>
+    <source>Euler Z: </source>
+    <target>Угол Эйлера Z: </target>
+</phrase>
+<phrase>
+    <source>tcp_eu_x</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Z: </source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Y: </source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>axis_5_actual_position</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>tcp_x</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>axis_3_actual_position</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>tcp_eu_z</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>tcp_y</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>axis_6_actual_position</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Euler X: </source>
+    <target>Угол Эйлера X: </target>
+</phrase>
+<phrase>
+    <source>Axes angles:</source>
+    <target>Углы осей:</target>
+</phrase>
+<phrase>
+    <source>Joint position</source>
+    <target>Добавить позицию</target>
+</phrase>
+<phrase>
+    <source>Cartesian position</source>
+    <target>Декартова позиция</target>
+</phrase>
+<phrase>
+    <source>OK</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>0</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Back</source>
+    <target>Назад</target>
+</phrase>
+<phrase>
+    <source>Parameter</source>
+    <target>Параметр</target>
+</phrase>
+<phrase>
+    <source>Value</source>
+    <target>Значение</target>
+</phrase>
+<phrase>
+    <source>bck</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>v</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>l</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>f</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>_</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>w</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>i</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>y</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>j</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>m</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>e</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>b</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>g</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>a</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>d</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>z</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>n</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>p</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>u</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>9</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>c</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>q</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>t</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>x</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>o</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>r</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>h</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>k</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Create empty point</source>
+    <target>Создать нулевую точку</target>
+</phrase>
+<phrase>
+    <source>Teach position</source>
+    <target>Обучить позицию</target>
+</phrase>
+<phrase>
+    <source>Edit position</source>
+    <target>Редактировать позицию</target>
+</phrase>
+<phrase>
+    <source>Axis</source>
+    <target>Оси</target>
+</phrase>
+<phrase>
+    <source>Parameters</source>
+    <target>Параметры</target>
+</phrase>
+<phrase>
+    <source>&lt;&lt;</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>+/-</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>&lt;-</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>-&gt;</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Test</source>
+    <target>Тест</target>
+</phrase>
+<phrase>
+    <source>Clear</source>
+    <target>Очистить</target>
+</phrase>
+<phrase>
+    <source>Run</source>
+    <target>Старт</target>
+</phrase>
+<phrase>
+    <source>Save</source>
+    <target>Сохранить</target>
+</phrase>
+<phrase>
+    <source>Upload</source>
+    <target>Выгрузить</target>
+</phrase>
+<phrase>
+    <source>Signal</source>
+    <target>Сигнал</target>
+</phrase>
+<phrase>
+    <source>Theme:</source>
+    <target>Тема:</target>
+</phrase>
+<phrase>
+    <source>Light</source>
+    <target>Светлая</target>
+</phrase>
+<phrase>
+    <source>Dark</source>
+    <target>Темная</target>
+</phrase>
+<phrase>
+    <source>Language:</source>
+    <target>Язык:</target>
+</phrase>
+<phrase>
+    <source>reset_fault</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>out_ready</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>out_enable_work</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>emergency_stop</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>PANIC</source>
+    <target>АВАРИЯ</target>
+</phrase>
+<phrase>
+    <source>Form</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>SAVE TRAJECTORY TO FILE:</source>
+    <target>СОХРАНИТЬ ТРАЕКТОРИЮ В ФАЙЛ:</target>
+</phrase>
+<phrase>
+    <source>Name:</source>
+    <target>Имя:</target>
+</phrase>
+<phrase>
+    <source>all</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>save</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>SAVE</source>
+    <target>Сохранить</target>
+</phrase>
+<phrase>
+    <source>cancel</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>CANCEL</source>
+    <target>Отмена</target>
+</phrase>
+<phrase>
+    <source>Form</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>all</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>cancel</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>CANCEL</source>
+    <target>Отмена</target>
+</phrase>
+<phrase>
+    <source>upload</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>UPLOAD</source>
+    <target>Выгрузить</target>
+</phrase>
+<phrase>
+    <source>Select file:</source>
+    <target>Выбрать файл:</target>
+</phrase>
+<phrase>
+    <source>UPLOAD TRAJECTORY FROM FILE:</source>
+    <target>ВЫГРУЗИТЬ ТРАЕКТОРИЮ ИЗ ФАЙЛА:</target>
+</phrase>
+<phrase>
+    <source>Language:</source>
+    <target>Язык:</target>
+</phrase>
+<phrase>
+    <source>English</source>
+    <target>Английский</target>
+</phrase>
+<phrase>
+    <source>Russian</source>
+    <target>Русский</target>
+</phrase>
+<phrase>
+    <source>all</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>reset_fault</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>APPLY</source>
+    <target>Применить</target>
+</phrase>
+<phrase>
+    <source>RECORD</source>
+    <target>ЗАПИСАТЬ</target>
+</phrase>
+<phrase>
+    <source>Selected signals:</source>
+    <target>Выбранные сигналы:</target>
+</phrase>
+<phrase>
+    <source>Avaliable signals:</source>
+    <target>Доступные сигналы:</target>
+</phrase>
+<phrase>
+    <source>CLEAR</source>
+    <target>ОЧИСТИТЬ</target>
+</phrase>
+<phrase>
+    <source>Recorder</source>
+    <target>Запись</target>
+</phrase>
+<phrase>
+    <source>Viewer</source>
+    <target>Просмотр</target>
+</phrase>
+<phrase>
+    <source>Motors:</source>
+    <target>Моторы:</target>
+</phrase>
+<phrase>
+    <source>ACK</source>
+    <target>СБРОС</target>
+</phrase>
+<phrase>
+    <source>Status:</source>
+    <target>Статус:</target>
+</phrase>
+<phrase>
+    <source>out_ready</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>out_enable_work</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>emergency_stop</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>PANIC</source>
+    <target>АВАРИЯ</target>
+</phrase>
+<phrase>
+    <source>PANIC</source>
+    <target>АВАРИЯ</target>
+</phrase>
+</QPH>

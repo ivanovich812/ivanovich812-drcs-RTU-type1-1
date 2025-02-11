@@ -1,0 +1,17 @@
+#402
+#berem iz lotka 2 tvel vozvrat v zero
+
+cmdStatus:1402
+tvel_2_lotok_podezd:6
+cmdSetDO:out_tool_1_open:1
+cmdSetDO:out_tool_2_open:1
+cmdWait:2
+tvel_2_lotok_hvat:1
+cmdSetDO:out_tool_2_open:0
+cmdWait:1
+cmdSetDO:out_tool_1_open:0
+cmdWait:2
+tvel_2_lotok_podezd:1
+zero:6
+cmdStatus:402
+cmdStop

@@ -1,0 +1,7 @@
+#470
+#perehod iz zero v prepos
+
+cmdStatus:1470
+truba_prepos:6
+cmdStatus:470
+cmdStop

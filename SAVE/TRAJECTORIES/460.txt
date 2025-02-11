@@ -1,0 +1,23 @@
+#460
+#stavim tvel v navivku vozvrat v zero
+
+cmdStatus:1460
+svarka_podezd:6
+svarka_podezd2:6
+svarka_podezd3:3
+svarka_prepos:2
+svarka_hvatv2:2
+cmdSetDO:out_tool_2_open:1
+cmdWait:2
+cmdSetDO:out_tool_1_open:1
+cmdWait:2
+svarka_prepos:2
+svarka_podezd3:2
+cmdSetDO:out_tool_1_open:0
+cmdSetDO:out_tool_2_open:0
+cmdWait:2
+svarka_podezd2:3
+svarka_podezd:6
+zero:6
+cmdStatus:460
+cmdStop

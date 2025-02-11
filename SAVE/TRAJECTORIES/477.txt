@@ -1,0 +1,20 @@
+#477
+#Demo vozim 3 tvel
+
+cmdStatus:1477
+svarka_podezd1demo:7
+svarka_podezd2demo:6
+svarka_podezd1demo:6
+vaso_podezd1demo:7
+vaso_podezd2demo:7
+vaso_podezd1demo:7
+lift_podezd1demo:5
+lift_podezd2:5
+lift_podezd3:4
+lift_podezd2:5
+lift_podezd:5
+k_liftu:6
+k_lotku:6
+zero:6
+tvel_1_lotok_podezd_nz:6
+zero:6

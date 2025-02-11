@@ -1,0 +1,16 @@
+{
+    "raw_position_1_ext": 2708,
+    "raw_position_2_ext": 2510,
+    "raw_position_3_ext": 0,
+    "raw_position_4_ext": 0,
+    "raw_position_5_ext": 1933,
+    "raw_position_6_ext": 2932,
+    "raw_position_7_ext": 3811,
+    "raw_position_8_ext": 0,
+    "axis_1_raw_position_resolver_motor": 256134400,
+    "axis_2_raw_position_resolver_motor": -1972136756,
+    "axis_3_raw_position_resolver_motor": 1378844672,
+    "axis_4_raw_position_resolver_motor": -709789696,
+    "axis_5_raw_position_resolver_motor": -2107572224,
+    "axis_6_raw_position_resolver_motor": 147058278
+}

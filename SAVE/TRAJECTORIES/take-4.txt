@@ -1,0 +1,23 @@
+#################################
+#DEF:take-4
+# Transporting of TVEL
+#MAGAZIN-4 POS ---> INTER POSITION
+#################################
+
+
+4-take-15mm:5
+cmdSetDO:out_tool_2_open:1
+cmdSetDO:out_tool_1_open:1
+cmdWait:2
+4-take:3
+cmdWait:2
+cmdSetDO:out_tool_2_open:0
+cmdSetDO:out_tool_1_open:0
+cmdWait:2
+4-take-15mm:3
+4-take-70mm:3
+
+#####################
+prep-mag:5
+inter-a:10
+inter-b:5

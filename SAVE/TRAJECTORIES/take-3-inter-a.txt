@@ -1,0 +1,20 @@
+#################################
+#DEF:take-3-inter-a
+# Transporting of TVEL
+#MAGAZIN-3 POS ---> inter-a
+#################################
+
+
+3-take-15mm:5
+cmdWait:2
+3-take-70mm:3
+
+#####################
+prep-mag:5
+inter-a:10
+inter-demo:5
+inter-c:3
+inter-demo:3
+inter-a:5
+prep-mag:10
+

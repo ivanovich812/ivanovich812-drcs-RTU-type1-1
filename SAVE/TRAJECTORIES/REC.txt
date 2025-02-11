@@ -1,0 +1,5 @@
+cmdWait:3
+cmdBrake
+cmdWait:1
+cmdRec
+cmdWait:1

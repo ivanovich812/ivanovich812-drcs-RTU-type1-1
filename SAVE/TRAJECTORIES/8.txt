@@ -1,0 +1,10 @@
+#################################
+#DEF:8
+# Transporting of TVEL
+#MAGAZIN-3 POS ---> inter-a
+#################################
+
+cmdStatus:1008
+DEF:take-3-inter-a
+
+

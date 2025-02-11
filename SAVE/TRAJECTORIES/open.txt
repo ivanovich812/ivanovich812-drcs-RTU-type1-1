@@ -1,0 +1,25 @@
+#################################
+#DEF:open
+# Test opening
+#################################
+cmdSetReg:1_out_operation_mode:2
+cmdSetReg:1_out_starting_type:10
+cmdSetReg:1_out_motor_speed_set_value:300
+cmdSetReg:1_out_motor_current_set_value:9
+cmdWhileGripper:1_in_motor_actual_current_value:1_out_motor_current_set_value:300:in_gripper_opened:310
+cmdSetReg:1_out_motor_current_set_value:4
+cmdWhileGripper:1_in_motor_actual_current_value:1_out_motor_current_set_value:300:in_gripper_opened:2000
+cmdSetReg:1_out_motor_current_set_value:-6
+cmdWhileGripper:1_in_motor_actual_current_value:1_out_motor_current_set_value:200:in_reset:200
+
+cmdSetReg:1_out_starting_type:0
+cmdSetReg:1_out_motor_current_set_value:0
+cmdSetReg:1_out_motor_speed_set_value:0
+
+cmdIf:in_gripper_opened:1
+
+
+
+
+
+

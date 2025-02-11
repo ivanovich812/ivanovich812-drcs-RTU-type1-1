@@ -1,0 +1,15 @@
+#otpuskaem v svarke edem v zero
+
+
+cmdStatus:1481
+cmdSetDO:out_tool_1_open:1
+cmdSetDO:out_tool_2_open:1
+cmdWait:2
+svarka_podezd3:2
+cmdSetDO:out_tool_1_open:0
+cmdSetDO:out_tool_2_open:0
+cmdWait:2
+svarka_podezd2:4
+svarka_podezd:6
+cmdStatus:481
+cmdStop

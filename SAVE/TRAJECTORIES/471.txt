@@ -1,0 +1,26 @@
+#471
+#berem iv lotka kladem v loze vozvrat v prepos
+
+cmdStatus:1471
+truba_lotok_podezd:3
+cmdSetDO:out_tool_1_open:1
+cmdSetDO:out_tool_2_open:1
+cmdWait:2
+truba_lotok_hvat:1
+cmdSetDO:out_tool_1_open:0
+cmdSetDO:out_tool_2_open:0
+cmdWait:2
+truba_lotok_podezd:1
+truba_podezd:4
+truba_hvatv2:1
+cmdSetDO:out_tool_1_open:1
+cmdSetDO:out_tool_2_open:1
+cmdWait:2
+truba_podezd:1
+cmdSetDO:out_tool_1_open:0
+cmdSetDO:out_tool_2_open:0
+cmdWait:2
+truba_prepos:3
+cmdStatus:471
+cmdStop
+

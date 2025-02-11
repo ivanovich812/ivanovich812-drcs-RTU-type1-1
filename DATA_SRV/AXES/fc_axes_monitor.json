@@ -1,0 +1,83 @@
+
+{
+    "actual_speed": {
+        "axis_1_actual_speed": 333,
+        "axis_2_actual_speed": 2.1,
+        "axis_3_actual_speed": 3.3,
+        "axis_4_actual_speed": 0,
+        "axis_5_actual_speed": 0,
+        "axis_6_actual_speed": 0
+    },
+    "setpoint_speed": {
+        "axis_1_setpoint_speed": 7.7,
+        "axis_2_setpoint_speed": 0,
+        "axis_3_setpoint_speed": 0,
+        "axis_4_setpoint_speed": 0,
+        "axis_5_setpoint_speed": 0,
+        "axis_6_setpoint_speed": 0
+    },
+    "actual_position": {
+        "axis_1_actual_position": 456.2,
+        "axis_2_actual_position": 222,
+        "axis_3_actual_position": 33.3,
+        "axis_4_actual_position": 55.0,
+        "axis_5_actual_position": 55.0,
+        "axis_6_actual_position": 171
+    },
+    "setpoint_position": {
+        "axis_1_setpoint_position": 55.5,
+        "axis_2_setpoint_position": 0,
+        "axis_3_setpoint_position": 0,
+        "axis_4_setpoint_position": 0,
+        "axis_5_setpoint_position": 5251,
+        "axis_6_setpoint_position": 0
+    },
+    "fault_code": {
+        "axis_1_fault_code": 44,
+        "axis_2_fault_code": 0,
+        "axis_3_fault_code": 0,
+        "axis_4_fault_code": 0,
+        "axis_5_fault_code": 0,
+        "axis_6_fault_code": 0
+    },
+    "torque_rms": {
+        "axis_1_torque_rms": 0,
+        "axis_2_torque_rms": 0,
+        "axis_3_torque_rms": 0,
+        "axis_4_torque_rms": 0,
+        "axis_5_torque_rms": 0,
+        "axis_6_torque_rms": 0
+    },
+    "raw_position_resolver_motor": {
+        "axis_1_raw_position_resolver_motor": 256134400,
+        "axis_2_raw_position_resolver_motor": -1972136756,
+        "axis_3_raw_position_resolver_motor": 1378844672,
+        "axis_4_raw_position_resolver_motor": -709789696,
+        "axis_5_raw_position_resolver_motor": -2107572224,
+        "axis_6_raw_position_resolver_motor": 147058278
+    },
+    "actual_current_rms": {
+        "axis_1_actual_current_rms": 0,
+        "axis_2_actual_current_rms": 0,
+        "axis_3_actual_current_rms": 0,
+        "axis_4_actual_current_rms": 0,
+        "axis_5_actual_current_rms": 0,
+        "axis_6_actual_current_rms": 0
+    },
+    "actual_torque_current": {
+        "axis_1_actual_torque_current": 0,
+        "axis_2_actual_torque_current": 0,
+        "axis_3_actual_torque_current": 0,
+        "axis_4_actual_torque_current": 0,
+        "axis_5_actual_torque_current": 0,
+        "axis_6_actual_torque_current": 0
+    },
+    "motor_temperature": {
+        "axis_1_motor_temperature": 31,
+        "axis_2_motor_temperature": 3384,
+        "axis_3_motor_temperature": 3027,
+        "axis_4_motor_temperature": 2965,
+        "axis_5_motor_temperature": 3729,
+        "axis_6_motor_temperature": 3635
+    }
+}

@@ -1,0 +1,15 @@
+#################################
+#DEF:take-7-demo
+# Transporting of TVEL
+#MAGAZIN-7 POS ---> INTER POSITION (DEMONSTRATION)
+#################################
+
+
+7-take-15mm:5
+cmdWait:2
+7-take-70mm:3
+
+#####################
+prep-mag:5
+inter-a:10
+inter-b:5
